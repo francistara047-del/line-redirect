@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>บริการทำแบบพิมพ์ฟัน</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 { color: #333; }
+    h2 { color: #333; margin-top: 30px; }
+    p { color: #555; font-size: 16px; }
+    img { max-width: 80%; margin: 20px 0; border-radius: 10px; }
+  </style>
+</head>
+<body>
+
+  <!-- 页面标题和介绍 -->
+  <h1>ยินดีต้อนรับสู่บริการทำแบบพิมพ์ฟัน</h1>
+  <p>เรามีบริการทำแบบพิมพ์ฟันอย่างมืออาชีพ รวดเร็วและง่ายต่อการใช้งาน<br>ราคาโปร่งใส และช่วยให้รอยยิ้มของคุณสวยงามขึ้นอย่างมั่นใจ</p>
+  
+  <!-- 产品图片 -->
+  <img src="https://raw.githubusercontent.com/francistara047-del/line-redirect/dcec6432cee82a46761d48b1aca197eecd70defc/30878526-27b2-4c94-b297-3fc87766bd77.png" alt="ตัวอย่างแบบพิมพ์ฟัน">
+
+  <!-- 二维码说明 -->
+  <h2>สแกน QR Code เพื่อสอบถาม Line</h2>
+  <img src="https://raw.githubusercontent.com/francistara047-del/line-redirect/153ab5db3feeeb22cb8bc6b9d6e9df3db8bd1412/9c518732e2150af2d76910ff684d9dca.jpg" alt="Line QR Code" style="max-width: 300px; margin: 20px auto; display:block;">
+  <p>ใช้โทรศัพท์ของคุณสแกน QR Code เพื่อสอบถามรายละเอียดบริการได้เลย</p>
+
+</body>
+</html>
