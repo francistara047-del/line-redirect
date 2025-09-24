@@ -18,7 +18,7 @@
         }
         .contact-btn {
             display: inline-block;
-            margin: 30px auto;
+            margin: 30px auto 10px auto;
             padding: 15px 30px;
             background-color: #00c300; /* LINE 绿色 */
             color: white;
@@ -30,21 +30,18 @@
             background-color: #009900;
         }
         .hint-text {
-            margin-top: 10px;
+            margin-top: 5px;
             font-size: 16px;
             color: #555;
         }
     </style>
 </head>
 <body>
-    <!-- 主图 -->
-    <img class="main-image" src="https://github.com/francistara047-del/line-redirect/blob/7a5bcc99e1061ca595f42b54c0afdc34a6a4efe6/985eec04-ce71-4c13-926a-ca51671e101b.png" alt="落地页主图">
-    
     <!-- 联系按钮 -->
-    <br>
     <a class="contact-btn" href="https://line.me/R/ti/p/@473rpwbh" target="_blank">ติดต่อฉันตอนนี้</a>
-    
-    <!-- 提示文字 -->
     <p class="hint-text">กดเพิ่มเพื่อน แล้วเริ่มแชทได้เลย 🟢</p>
+
+    <!-- 主图 -->
+    <img class="main-image" src="https://github.com/francistara047-del/line-redirect/blob/d5d1c634fc1b70229bd12643611836cea1104411/985eec04-ce71-4c13-926a-ca51671e101b.png" alt="落地页主图">
 </body>
 </html>
